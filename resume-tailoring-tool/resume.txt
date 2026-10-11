@@ -1,0 +1,40 @@
+Header:
+Jordan Lee
+jordan.lee@example.com | (555) 555-0100 | github.com/jordanlee
+
+Education:
+B.S. Computer Science | Example University | Expected 2028
+
+Skills:
+Python
+Java
+C++
+Git
+GitHub
+Excel
+ChatGPT
+
+Projects:
+AI Resume Analyzer | Python, ChatGPT, Git
+Built a Python application that compares resume content with job requirements.
+Used ChatGPT during prototyping and testing of resume-tailoring workflows.
+Created reusable parsing and scoring functions for structured text.
+
+Study Dashboard | Python, Excel
+Automated study-data processing with Python.
+Created an Excel dashboard to summarize weekly progress.
+Presented results to classmates.
+
+Experience:
+Technology Assistant | Campus Technology Center | 2025 - Present
+Created Python scripts to automate repetitive data-cleaning tasks.
+Helped users troubleshoot common software issues.
+Documented recurring technical problems and solutions.
+
+Student Assistant | Example Department | 2024 - 2025
+Organized digital files and maintained spreadsheets.
+Assisted staff with routine administrative tasks.
+
+Additional Experience:
+Volunteer Tutor | Community Learning Center | 2024
+Tutored students in introductory programming concepts.

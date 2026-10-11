@@ -1,0 +1,13 @@
+Summary:
+We are seeking an AI intern who can use Python and automation to improve internal workflows.
+
+Responsibilities:
+Build Python automation tools.
+Experiment with AI tools such as ChatGPT and Microsoft Copilot.
+Document technical workflows and communicate results.
+
+Qualifications:
+Experience with Python.
+Interest in artificial intelligence and automation.
+Familiarity with ChatGPT is preferred.
+Git experience is helpful.

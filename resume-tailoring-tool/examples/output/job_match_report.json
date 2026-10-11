@@ -1,0 +1,261 @@
+{
+  "match_percentage": 71.4,
+  "weight_coverage": {
+    "found": 20,
+    "requested": 28
+  },
+  "job_skills": [
+    "Python",
+    "AI",
+    "automation",
+    "ChatGPT",
+    "Microsoft Copilot",
+    "Git"
+  ],
+  "skill_weights": {
+    "Python": 6,
+    "AI": 6,
+    "automation": 6,
+    "ChatGPT": 5,
+    "Microsoft Copilot": 2,
+    "Git": 3
+  },
+  "explicit_skill_matches": [
+    "Python",
+    "ChatGPT",
+    "Git"
+  ],
+  "evidence_elsewhere": [
+    "AI"
+  ],
+  "not_found": [
+    "automation",
+    "Microsoft Copilot"
+  ],
+  "selected_entries": {
+    "Projects": [
+      {
+        "section": "Projects",
+        "title": "AI Resume Analyzer",
+        "organization": null,
+        "dates": null,
+        "technologies": [
+          "Python",
+          "ChatGPT",
+          "Git"
+        ],
+        "header_line": "AI Resume Analyzer | Python, ChatGPT, Git",
+        "bullets": [
+          "Built a Python application that compares resume content with job requirements.",
+          "Used ChatGPT during prototyping and testing of resume-tailoring workflows.",
+          "Created reusable parsing and scoring functions for structured text."
+        ],
+        "lines": [
+          "AI Resume Analyzer | Python, ChatGPT, Git",
+          "Built a Python application that compares resume content with job requirements.",
+          "Used ChatGPT during prototyping and testing of resume-tailoring workflows.",
+          "Created reusable parsing and scoring functions for structured text."
+        ],
+        "skills": [
+          "Python",
+          "AI",
+          "ChatGPT",
+          "Git"
+        ],
+        "score": 20,
+        "ranked_bullets": [
+          {
+            "bullet": "Built a Python application that compares resume content with job requirements.",
+            "skills": [
+              "Python"
+            ],
+            "score": 6,
+            "original_index": 0
+          },
+          {
+            "bullet": "Used ChatGPT during prototyping and testing of resume-tailoring workflows.",
+            "skills": [
+              "ChatGPT"
+            ],
+            "score": 5,
+            "original_index": 1
+          },
+          {
+            "bullet": "Created reusable parsing and scoring functions for structured text.",
+            "skills": [],
+            "score": 0,
+            "original_index": 2
+          }
+        ],
+        "selected_bullets": [
+          {
+            "bullet": "Built a Python application that compares resume content with job requirements.",
+            "skills": [
+              "Python"
+            ],
+            "score": 6,
+            "original_index": 0
+          },
+          {
+            "bullet": "Used ChatGPT during prototyping and testing of resume-tailoring workflows.",
+            "skills": [
+              "ChatGPT"
+            ],
+            "score": 5,
+            "original_index": 1
+          }
+        ]
+      },
+      {
+        "section": "Projects",
+        "title": "Study Dashboard",
+        "organization": null,
+        "dates": null,
+        "technologies": [
+          "Python",
+          "Excel"
+        ],
+        "header_line": "Study Dashboard | Python, Excel",
+        "bullets": [
+          "Automated study-data processing with Python.",
+          "Created an Excel dashboard to summarize weekly progress.",
+          "Presented results to classmates."
+        ],
+        "lines": [
+          "Study Dashboard | Python, Excel",
+          "Automated study-data processing with Python.",
+          "Created an Excel dashboard to summarize weekly progress.",
+          "Presented results to classmates."
+        ],
+        "skills": [
+          "Python"
+        ],
+        "score": 6,
+        "ranked_bullets": [
+          {
+            "bullet": "Automated study-data processing with Python.",
+            "skills": [
+              "Python"
+            ],
+            "score": 6,
+            "original_index": 0
+          },
+          {
+            "bullet": "Created an Excel dashboard to summarize weekly progress.",
+            "skills": [],
+            "score": 0,
+            "original_index": 1
+          },
+          {
+            "bullet": "Presented results to classmates.",
+            "skills": [],
+            "score": 0,
+            "original_index": 2
+          }
+        ],
+        "selected_bullets": [
+          {
+            "bullet": "Automated study-data processing with Python.",
+            "skills": [
+              "Python"
+            ],
+            "score": 6,
+            "original_index": 0
+          }
+        ]
+      }
+    ],
+    "Experience": [
+      {
+        "section": "Experience",
+        "title": "Technology Assistant",
+        "organization": "Campus Technology Center",
+        "dates": "2025 - Present",
+        "technologies": [],
+        "header_line": "Technology Assistant | Campus Technology Center | 2025 - Present",
+        "bullets": [
+          "Created Python scripts to automate repetitive data-cleaning tasks.",
+          "Helped users troubleshoot common software issues.",
+          "Documented recurring technical problems and solutions."
+        ],
+        "lines": [
+          "Technology Assistant | Campus Technology Center | 2025 - Present",
+          "Created Python scripts to automate repetitive data-cleaning tasks.",
+          "Helped users troubleshoot common software issues.",
+          "Documented recurring technical problems and solutions."
+        ],
+        "skills": [
+          "Python"
+        ],
+        "score": 6,
+        "ranked_bullets": [
+          {
+            "bullet": "Created Python scripts to automate repetitive data-cleaning tasks.",
+            "skills": [
+              "Python"
+            ],
+            "score": 6,
+            "original_index": 0
+          },
+          {
+            "bullet": "Helped users troubleshoot common software issues.",
+            "skills": [],
+            "score": 0,
+            "original_index": 1
+          },
+          {
+            "bullet": "Documented recurring technical problems and solutions.",
+            "skills": [],
+            "score": 0,
+            "original_index": 2
+          }
+        ],
+        "selected_bullets": [
+          {
+            "bullet": "Created Python scripts to automate repetitive data-cleaning tasks.",
+            "skills": [
+              "Python"
+            ],
+            "score": 6,
+            "original_index": 0
+          }
+        ]
+      }
+    ],
+    "Additional Experience": []
+  },
+  "tailored_resume": {
+    "Header": [
+      "Jordan Lee",
+      "jordan.lee@example.com | (555) 555-0100 | github.com/jordanlee"
+    ],
+    "Education": [
+      "B.S. Computer Science | Example University | Expected 2028"
+    ],
+    "Skills": [
+      "Python",
+      "ChatGPT",
+      "Git",
+      "Java",
+      "C++",
+      "GitHub",
+      "Excel"
+    ],
+    "Projects": [
+      "AI Resume Analyzer | Python, ChatGPT, Git",
+      "Built a Python application that compares resume content with job requirements.",
+      "Used ChatGPT during prototyping and testing of resume-tailoring workflows.",
+      "Study Dashboard | Python, Excel",
+      "Automated study-data processing with Python."
+    ],
+    "Experience": [
+      "Technology Assistant | Campus Technology Center | 2025 - Present",
+      "Created Python scripts to automate repetitive data-cleaning tasks."
+    ],
+    "Additional Experience": [
+      "Volunteer Tutor | Community Learning Center | 2024",
+      "Tutored students in introductory programming concepts."
+    ]
+  },
+  "tailored_resume_path": "examples/output/tailored_resume.txt"
+}

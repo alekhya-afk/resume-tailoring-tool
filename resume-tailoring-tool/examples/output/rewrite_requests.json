@@ -1,0 +1,70 @@
+[
+  {
+    "section": "Projects",
+    "entry": "AI Resume Analyzer",
+    "original_bullet": "Built a Python application that compares resume content with job requirements.",
+    "matched_skills": [
+      "Python"
+    ],
+    "instruction": "Rewrite for clarity and job relevance using only facts present in the original bullet. Do not add metrics, tools, responsibilities, outcomes, or experience.",
+    "job_skills": [
+      "Python",
+      "AI",
+      "automation",
+      "ChatGPT",
+      "Microsoft Copilot",
+      "Git"
+    ]
+  },
+  {
+    "section": "Projects",
+    "entry": "AI Resume Analyzer",
+    "original_bullet": "Used ChatGPT during prototyping and testing of resume-tailoring workflows.",
+    "matched_skills": [
+      "ChatGPT"
+    ],
+    "instruction": "Rewrite for clarity and job relevance using only facts present in the original bullet. Do not add metrics, tools, responsibilities, outcomes, or experience.",
+    "job_skills": [
+      "Python",
+      "AI",
+      "automation",
+      "ChatGPT",
+      "Microsoft Copilot",
+      "Git"
+    ]
+  },
+  {
+    "section": "Projects",
+    "entry": "Study Dashboard",
+    "original_bullet": "Automated study-data processing with Python.",
+    "matched_skills": [
+      "Python"
+    ],
+    "instruction": "Rewrite for clarity and job relevance using only facts present in the original bullet. Do not add metrics, tools, responsibilities, outcomes, or experience.",
+    "job_skills": [
+      "Python",
+      "AI",
+      "automation",
+      "ChatGPT",
+      "Microsoft Copilot",
+      "Git"
+    ]
+  },
+  {
+    "section": "Experience",
+    "entry": "Technology Assistant",
+    "original_bullet": "Created Python scripts to automate repetitive data-cleaning tasks.",
+    "matched_skills": [
+      "Python"
+    ],
+    "instruction": "Rewrite for clarity and job relevance using only facts present in the original bullet. Do not add metrics, tools, responsibilities, outcomes, or experience.",
+    "job_skills": [
+      "Python",
+      "AI",
+      "automation",
+      "ChatGPT",
+      "Microsoft Copilot",
+      "Git"
+    ]
+  }
+]

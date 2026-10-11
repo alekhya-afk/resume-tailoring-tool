@@ -1,0 +1,31 @@
+JOB MATCH REPORT
+================
+Overall match: 71.4% (20/28 weighted points)
+
+Requested skills: Python, AI, automation, ChatGPT, Microsoft Copilot, Git
+Explicit matches: Python, ChatGPT, Git
+Evidence elsewhere: AI
+Not found: automation, Microsoft Copilot
+
+Skill weights:
+- Python: 6
+- AI: 6
+- automation: 6
+- ChatGPT: 5
+- Microsoft Copilot: 2
+- Git: 3
+
+Selected entries:
+
+Projects:
+- AI Resume Analyzer | score 20
+  6 | Python | Built a Python application that compares resume content with job requirements.
+  5 | ChatGPT | Used ChatGPT during prototyping and testing of resume-tailoring workflows.
+- Study Dashboard | score 6
+  6 | Python | Automated study-data processing with Python.
+
+Experience:
+- Technology Assistant | score 6
+  6 | Python | Created Python scripts to automate repetitive data-cleaning tasks.
+
+Additional Experience:
